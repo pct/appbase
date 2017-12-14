@@ -13,8 +13,13 @@
   "devDependencies": {
     "babel-jest": "21.2.0",
     "babel-preset-react-native": "4.0.0",
+    "coffeescript": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-coffee2": "^2.3.4",
+    "gulp-rollup": "^2.15.0",
     "jest": "21.2.1",
-    "react-test-renderer": "16.0.0"
+    "react-test-renderer": "16.0.0",
+    "rollup-plugin-coffee-script": "^2.0.0"
   },
   "jest": {
     "preset": "react-native"
