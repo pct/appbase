@@ -2,6 +2,10 @@ gulp = require 'gulp'
 coffee = require 'gulp-coffee2'
 
 gulp.task 'build', ->
+  gulp.src('./index.coffee')
+    .pipe(coffee bare: on)
+    .pipe(gulp.dest './')
+
   gulp.src('./src/**/*.coffee')
     .pipe(coffee bare: on)
     .pipe(gulp.dest './app/')
