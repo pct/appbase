@@ -17,7 +17,6 @@
     "gulp": "^3.9.1",
     "gulp-coffee2": "^2.3.4",
     "jest": "21.2.1",
-    "pug-as-jsx-loader": "^1.0.35",
     "react-test-renderer": "16.0.0"
   },
   "jest": {
