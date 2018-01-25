@@ -6,6 +6,10 @@
 2. package.json
 3. index.coffee, build to index.js (要記得改，否則會有 Application <appname> has not been registered 的 issue)
 
+再
+
+    ./bin/reset_ios_android_folder.sh
+
 ### build iOS
 
 參考 https://facebook.github.io/react-native/docs/running-on-device.html
@@ -20,5 +24,15 @@
 ### Build iOS Release
 
     react-native run-ios --configuration Release
+
+
+其他
+====
+- Dialogs: https://www.npmjs.com/package/react-native-popup-dialog
+- Image picker: https://github.com/ivpusic/react-native-image-crop-picker
+- Maps: https://github.com/airbnb/react-native-maps
+- Html view: https://github.com/jsdf/react-native-htmlview
+
+
 
 
