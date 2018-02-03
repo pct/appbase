@@ -1,5 +1,5 @@
 #!/bin/sh
-yarn install
+yarn
 
 yarn add lodash \
 react-native-vector-icons \
