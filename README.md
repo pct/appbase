@@ -32,6 +32,7 @@
 - Image picker: https://github.com/ivpusic/react-native-image-crop-picker
 - Maps: https://github.com/airbnb/react-native-maps
 - Html view: https://github.com/jsdf/react-native-htmlview
+- Form select: https://github.com/sohobloo/react-native-modal-dropdown
 
 
 
