@@ -8,3 +8,5 @@ react-native bundle --entry-file index.js --platform ios --dev false --bundle-ou
 
 cp ios/$PROJECT_NAME/AppDelegate.m.release ios/$PROJECT_NAME/AppDelegate.m
 react-native run-ios --device $DEVICE_NAME --configuration Release
+
+git checkout ios/$PROJECT_NAME/AppDelegate.m
