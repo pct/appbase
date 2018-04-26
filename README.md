@@ -1,6 +1,11 @@
 ## AppBase
 
 ### 更名
+
+使用 react-native-rename 更名, `react-native-rename <new-name>`
+
+    npm install react-native-rename -g
+
 如果要改掉 appbase 這個名字, 請改
 1. app.json
 2. package.json
