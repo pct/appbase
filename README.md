@@ -38,7 +38,4 @@
 - Maps: https://github.com/airbnb/react-native-maps
 - Html view: https://github.com/jsdf/react-native-htmlview
 - Form select: https://github.com/sohobloo/react-native-modal-dropdown
-
-
-
-
+- placeholder: https://github.com/mfrachet/rn-placeholder
